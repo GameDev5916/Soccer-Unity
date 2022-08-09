@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f72441e62db51445a3965779c1ad434, type: 3}
+  m_Name: PlayerBallSkins
+  m_EditorClassIdentifier: 
+  SelectedSkinIndex: 0
+  Skins:
+  - {fileID: 11400000, guid: d41c98f8e8b9c61498f767c79650253d, type: 2}
+  - {fileID: 11400000, guid: f94e97485e201184a9434c43005a973f, type: 2}
+  - {fileID: 11400000, guid: 4654fd12085981848b05179f69853ad6, type: 2}

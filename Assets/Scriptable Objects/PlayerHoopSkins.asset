@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f72441e62db51445a3965779c1ad434, type: 3}
+  m_Name: PlayerHoopSkins
+  m_EditorClassIdentifier: 
+  SelectedSkinIndex: 0
+  Skins:
+  - {fileID: 11400000, guid: b6e6770f6d745a6469866c5205090adf, type: 2}
+  - {fileID: 11400000, guid: a800e4b41e8321040835458b73951708, type: 2}
+  - {fileID: 11400000, guid: 9ee3d373c454d124e96a6adb8be6d876, type: 2}
+  - {fileID: 11400000, guid: 998c9e0e53a41ab4dbbcdfedbb588b47, type: 2}
